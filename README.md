@@ -1,4 +1,4 @@
-Install Docker 
+Install Docker
 $ sudo apt install docker.io
 Build docker image
 $ sudo docker build -t {image name}
